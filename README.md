@@ -35,8 +35,8 @@ IT/AI 분야 전문가로 구성된 전문 평가위원단이 평가를 진행�
 ## 평가 산식
 
 - **f1 score**
-
   ![f1 score](https://latex.codecogs.com/svg.latex?\text{f1-score}=\frac{2 \times \text{precision} \times \text{recall}}{\text{precision} + \text{recall}})
+
 
 ## 참가자 가이드
 
