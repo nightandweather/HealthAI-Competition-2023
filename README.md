@@ -13,29 +13,6 @@
 
 - 구강이미지 합성데이터
 
-## 활용 AI 모델
-
-- EfficientNet
-- ResNet
-
-(다른 모델 사용 가능)
-
-## 심사 계획
-
-IT/AI 분야 전문가로 구성된 전문 평가위원단이 평가를 진행합니다.
-
-1. **사전 검토**: 평가 적격/비적격 참여자 선별
-2. **정량 평가**: 평가지표를 통한 점수 산정
-
-## 심사 기준
-
-- **f1-score가 1점에 가까울 수록 높은 점수 부여**
-  - f1-score를 점수로 환산하여 순위 선정
-
-## 평가 산식
-
-- **f1 score**
-  ![f1 score](https://latex.codecogs.com/svg.latex?F_1%20=%20\frac{2 \times \text{precision} \times \text{recall}}{\text{precision} + \text{recall}})
 
 ## 참가자 가이드
 
